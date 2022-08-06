@@ -294,6 +294,15 @@ body {
     font-size: 0.7rem;
 }
 
+.attribution a{
+	color: hsl(289, 100%, 72%);
+	text-decoration: none;
+}
+
+.attribution span{
+	color: hsl(271, 36%, 24%) ;
+}
+
 @media (min-width: 768px) {
 	.container {
 		height: 100vh;
